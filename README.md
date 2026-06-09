@@ -122,11 +122,11 @@ End-to-end ML system that parses raw resume PDFs, extracts structured skill sign
 
 | Certificate | Issuer |
 |-------------|--------|
-| Production Machine Learning Systems | — |
-| Generative AI in Action | — |
-| ML Operations (MLOps) for Generative AI | — |
-| Machine Learning in Production | — |
-| Getting Started with Artificial Intelligence | — |
+| Production Machine Learning Systems | Google Cloud Skills Boost |
+| Generative AI in Action | IBM SkillsBuild |
+| ML Operations (MLOps) for Generative AI | Google Cloud Skills Boost |
+| Machine Learning in Production | DeepLearning.AI |
+| Getting Started with Artificial Intelligence | IBM SkillsBuild |
 
 ---
 
@@ -134,8 +134,8 @@ End-to-end ML system that parses raw resume PDFs, extracts structured skill sign
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hema312006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1c&title_color=06b6d4&icon_color=8b5cf6&text_color=94a3b8&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema312006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1c&title_color=06b6d4&text_color=94a3b8&langs_count=6"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hema312006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=8b5cf6&text_color=94a3b8&count_private=true&cache_seconds=1800"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema312006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=94a3b8&langs_count=6&cache_seconds=1800"/>
 
 </div>
 
